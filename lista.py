@@ -1,2 +1,5 @@
 nombre = input("Introduce tu nombre: ")
-print("Bienvenido tu nombre es ",nombre)
+for i in nombre:
+	print(i.upper())
+
+input("Pulse cualquier tecla para salir...")
