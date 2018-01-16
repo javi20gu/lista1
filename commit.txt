@@ -1,0 +1,17 @@
+commit 12ccd4e30684514443c9344d296e771c306ee1bf
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 18:49:43 2018 +0100
+
+    Se modifico codigo
+
+commit fd2dd2fff5d63153e350ee60d75f4cac19b57a0e
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 18:46:09 2018 +0100
+
+    Agregamos codigo base
+
+commit abcb53a96e204d6059e35d74a7c6508819846f9e
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 18:41:48 2018 +0100
+
+    Iniciamos
