@@ -1,8 +1,32 @@
-commit 12ccd4e30684514443c9344d296e771c306ee1bf
+commit 3a156fe0e07ca86565b198148b65182bdbd3a0e4
 Author: Javier <javierhidalgo_c@hotmail.com>
-Date:   Tue Jan 16 18:49:43 2018 +0100
+Date:   Tue Jan 16 20:25:42 2018 +0100
 
-    Se modifico codigo
+    Borrado codigo
+
+commit b6420899f6a6b003173fd5e504282f781c278ea0
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 20:04:43 2018 +0100
+
+    Introducimos salida del programa
+
+commit 7bdd493fc1dc3c9eb3749e433bed1130a76d7830
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 19:38:08 2018 +0100
+
+    Añadido codigo
+
+commit 102bade597d626dec1fae9171348851a14ab1731
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 19:23:42 2018 +0100
+
+    Mejorado codigo superficial
+
+commit 206fe67339fe4eb5725ab572397cf6381ea45be6
+Author: Javier <javierhidalgo_c@hotmail.com>
+Date:   Tue Jan 16 19:13:13 2018 +0100
+
+    Mejora de codigo
 
 commit fd2dd2fff5d63153e350ee60d75f4cac19b57a0e
 Author: Javier <javierhidalgo_c@hotmail.com>
